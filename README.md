@@ -6,7 +6,7 @@ I'm a Freelance Full Stack Web developer. Over the past half a year, I have help
 
 ---
 ### 🧰 Languages and Tools
-<br />
+
 <img align="left" alt="Javascript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" alt="Javascript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <!-- <img align="left" alt="Javascript" width="40px" style="padding-right:10px;background-color:white;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" /> -->
@@ -35,7 +35,7 @@ I'm a Freelance Full Stack Web developer. Over the past half a year, I have help
     <img width="320" src="https://user-images.githubusercontent.com/63041409/230712190-6c251745-9e4c-40b3-be28-8e361a5928b4.png"/>
   </a>
 </div>
-
+<br/>
 ### 📊 Stats
 ![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aman-Gupta-404&show_icons=true&theme=vue-dark)
 
