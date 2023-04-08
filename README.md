@@ -19,5 +19,17 @@ I'm a Freelance Full Stack Web developer. Over the past half a year, I have help
 
 #
 
+### Some of my Work
+<div style="display:flex;">
+  <a href="#"><img /></a>
+</div>
+
 ### Stats
 ![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aman-Gupta-404&show_icons=true&theme=vue-dark)
+
+#
+
+<details>
+  <summary><h3>My Coding Journey</h3></summary>
+    
+</details>
