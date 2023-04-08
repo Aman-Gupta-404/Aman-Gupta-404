@@ -21,7 +21,7 @@ I'm a Freelance Full Stack Web developer. Over the past half a year, I have help
 
 ### Some of my Work
 <div style="display:flex;">
-  <a href="#"><img width="350" src="./img1.png"/></a>
+  <a href="#"><img width="350" src="https://user-images.githubusercontent.com/63041409/230711982-550dd1d4-4bfa-4300-b478-126f9703c8fa.png"/></a>
   
 </div>
 
