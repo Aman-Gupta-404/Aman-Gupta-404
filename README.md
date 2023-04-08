@@ -22,8 +22,10 @@ I'm a Freelance Full Stack Web developer. Over the past half a year, I have help
 ### Some of my Work
 <div style="display:flex;">
   <a href="#"><img width="350" src="./img1.png"/></a>
-  ![Screenshot](img1.png)
+  
 </div>
+
+![Screenshot](img1.png)
 
 ### Stats
 ![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aman-Gupta-404&show_icons=true&theme=vue-dark)
