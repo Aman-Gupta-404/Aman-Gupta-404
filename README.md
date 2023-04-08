@@ -20,4 +20,4 @@ I'm a Freelance Full Stack Web developer. Over the past half a year, I have help
 #
 
 ### Stats
-![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=vue-dark)
