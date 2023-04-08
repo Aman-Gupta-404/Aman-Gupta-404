@@ -25,7 +25,8 @@ I'm a Freelance Full Stack Web developer. Over the past half a year, I have help
   
 </div>
 
-![Screenshot](img1.png)
+![img3](https://user-images.githubusercontent.com/63041409/230711982-550dd1d4-4bfa-4300-b478-126f9703c8fa.png)
+
 
 ### Stats
 ![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aman-Gupta-404&show_icons=true&theme=vue-dark)
