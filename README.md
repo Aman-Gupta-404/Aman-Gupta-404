@@ -22,6 +22,7 @@ I'm a Freelance Full Stack Web developer. Over the past half a year, I have help
 ### Some of my Work
 <div style="display:flex;">
   <a href="#"><img width="350" src="./img1.png"/></a>
+  ![Screenshot](img1.png)
 </div>
 
 ### Stats
